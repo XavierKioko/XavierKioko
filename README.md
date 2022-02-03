@@ -9,13 +9,14 @@
  
 📫 How to reach me xavierkioko12@gmail.com 💬
 
-⚡ Fun fact 
+  ⚡ Fun fact 
  
-   https://www.youtube.com/c/XAVIERKIOKO
+  - https://www.youtube.com/c/XAVIERKIOKO
    
-   I am a content creater
+   -I am a content creater
    
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api XavierKioko)](https://github.com/anuraghazra/github-readme-stats)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=XavierKioko&theme=highcontrast&show_icons=true&count_private=true)
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierKioko)
 
 
 
