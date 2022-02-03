@@ -14,6 +14,8 @@
    https://www.youtube.com/c/XAVIERKIOKO
    
    I am a content creater
+   
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api XavierKioko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
