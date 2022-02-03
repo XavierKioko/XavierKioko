@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 Xavier here
+ 
 
-<!--
-**XavierKioko/XavierKioko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌱 I’m currently learning Android Development and animation
+ 
+ 
+ 👯 I’m looking to collaborate on any new and innovative ideas
+ 
+ 
+📫 How to reach me xavierkioko12@gmail.com 💬
 
-Here are some ideas to get you started:
+⚡ Fun fact 
+ 
+   https://www.youtube.com/c/XAVIERKIOKO
+   
+   I am a content creater
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
